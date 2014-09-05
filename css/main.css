@@ -1,0 +1,28 @@
+body{
+	background-image:url(http://megahdwall.com/wp-content/uploads/2014/06/Degradado-Blanco-Minimal-Gray-To-White-Gradient-Pc-And-Mac-104735.jpg);
+	background-size: 1366px 760px;
+	background-repeat: no-repeat;
+}
+header{
+	background-color:#000000;
+	height:100px;
+	width:800px;
+	margin-left: auto;
+    margin-right: auto;
+    opacity: 0.8;
+    font-size: 70px;
+    color: #BD8DFD;
+}
+section{
+	background-color:#000000;
+	height:460px;
+	width:900px;
+	margin-left: auto;
+    margin-right: auto;
+    opacity: 0.8;
+    font-size: 20px;
+    color: #BD8DFD;
+}
+div{
+	text-align: center;
+}
